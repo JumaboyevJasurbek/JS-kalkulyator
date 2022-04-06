@@ -12,6 +12,7 @@
 
 
 
+
 let son = parseInt(prompt("Birinchi sonni kiriting"));
 
 let amal = prompt("Amalni kiriting");
